@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Kai (@kaisys682)
 
-<!--
-**kaisys682/kaisys682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Singapore. I build indie web apps, minimalist developer tools, and side projects.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Building lean SaaS products and backend APIs
+- Tinkering with local-first architectures and small DBs
+- Keeping dependencies low and shipping fast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core stack
+- **Languages:** TypeScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** FastAPI, Node.js
+- **Database:** SQLite, PostgreSQL
+
+### Reach out
+- Web: [kaisys.dev](https://kaisys.dev)
+- X / Twitter: [@kaisys682](https://x.com/kaisys682)
+- Email: kai@kaisys.dev
